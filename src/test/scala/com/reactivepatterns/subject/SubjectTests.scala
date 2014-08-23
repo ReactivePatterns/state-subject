@@ -4,7 +4,7 @@ import rx.lang.scala.Observable
 
 
 /**
- * Created by Constantin on 4/2/14.
+ * Created by *stan* on 4/2/14.
  */
 object SubjectTests extends App {
   implicit def StateSubjectToObservable[M, S](rs : StateSubject[M, S]): Observable[S] = rs.stream()

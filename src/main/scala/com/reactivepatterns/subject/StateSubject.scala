@@ -4,7 +4,7 @@ import rx.lang.scala.subjects.{ReplaySubject, BehaviorSubject, PublishSubject}
 import rx.lang.scala.{Observable, Subject}
 
 /**
- * Created by Constantin on 3/29/14.
+ * Created by *stan* on 3/29/14.
  */
 
 trait ReactiveState[M, S] {
