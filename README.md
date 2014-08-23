@@ -1,0 +1,1 @@
+Companion code for article.
