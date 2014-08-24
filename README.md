@@ -1,1 +1,1 @@
-Companion code for the article: [Using State Streaming to Simplify Event-Driven Applications](http://stanlea.gitbooks.io/statesubject/).
+Companion code for the article: [State Subjects: Reactive Architectures with State Streaming](http://stanlea.gitbooks.io/statesubject/) at GitBook or [State Subjects: Reactive Architectures with State Streaming](https://medium.com/@StanLea/bb615542878e) at Medium.
